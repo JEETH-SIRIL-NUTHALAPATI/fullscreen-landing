@@ -1,0 +1,73 @@
+body {
+  font-size: larger;
+}
+
+.img {
+  background-image: url(images/sean-o-KMn4VEeEPR8-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.link-1 {
+}
+
+.link {
+  margin-left: 45%;
+  padding: 4px;
+  text-decoration: none;
+  border: 1px solid brown;
+  border-radius: 5px;
+  color: clack;
+}
+
+.link:hover {
+  background-color: brown;
+  color: white;
+}
+
+.middle {
+  color: rebeccapurple;
+  padding-top: 15rem;
+  text-align: center;
+  vertical-align: middle;
+}
+
+p {
+  color: rebeccapurple;
+  text-align: center;
+  padding: 0 20px 0 20px;
+}
+
+.d1 {
+  text-align: center;
+  background-color: brown;
+  height: 33vh;
+}
+
+.d2 {
+  text-align: center;
+  background-color: skyblue;
+  height: 33vh;
+}
+
+.sp1 {
+  background-color: brown;
+}
+.sp2 {
+  background-color: skyblue;
+}
+.sp3 {
+  background-color: brown;
+}
+
+.info {
+  height: 100vh;
+}
+
+.sp {
+  box-sizing: border-box;
+  float: left;
+  width: 33.3%;
+  height: 34vh;
+}
