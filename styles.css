@@ -1,5 +1,7 @@
 body {
   font-size: larger;
+  margin: 0;
+  border: o;
 }
 
 .img {
@@ -27,6 +29,7 @@ body {
 }
 
 .middle {
+  margin-top: 0;
   color: rebeccapurple;
   padding-top: 15rem;
   text-align: center;
@@ -52,12 +55,15 @@ p {
 }
 
 .sp1 {
+  padding: 3px;
   background-color: brown;
 }
 .sp2 {
+  padding: 3px;
   background-color: skyblue;
 }
 .sp3 {
+  padding: 3px;
   background-color: brown;
 }
 
